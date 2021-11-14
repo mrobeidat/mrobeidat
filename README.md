@@ -24,16 +24,15 @@ My name is Yousef and I'm a Software-developer trainee who is passionate about p
 
 
 ## &#x1f4c8; GitHub Stats
-
+ 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrobeidat&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
-
+<br />
+ <br />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrobeidat)](https://github.com/anuraghazra/github-readme-stats) -->
 <br />
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrobeidat&theme=radical" alt="Yousef" /></p>
  
- <br />  <br />
- <br />
- <br />
+ <br />  
 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrobeidat&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
