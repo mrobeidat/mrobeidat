@@ -6,7 +6,7 @@
  
 ![](https://visitor-badge.glitch.me/badge?page_id=mrobeidat)
 
-My name is Yousef and I'm a Software-developer trainee who is passionate about programming and learning new technologies. 
+My name is Yousef and I'm a Software-developer who is passionate about programming and learning new technologies. 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
