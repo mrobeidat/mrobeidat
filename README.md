@@ -26,6 +26,7 @@ My name is Yousef and I'm a Software-developer who is passionate about programmi
 ![postgreSQL](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)
 <br/>
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![nextJS](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
