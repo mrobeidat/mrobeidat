@@ -27,17 +27,24 @@ My name is Yousef and I'm a Software-developer who is passionate about programmi
 <br/>
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![nextJS](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs)
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 </br>
 ![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=Django)
 ![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![pycharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+</br>
+![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)
+![ArchLinux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archLINUX)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
+![VERCEL](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
+![Django](https://img.shields.io/badge/-jupyterNotebook-05122A?style=flat&logo=jupyter)
 
 
 ## &#x1f4c8; GitHub Stats
