@@ -27,6 +27,7 @@ My name is Yousef and I'm a Software-developer who is passionate about programmi
 <br/>
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![nextJS](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs)
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
