@@ -30,7 +30,6 @@ My name is Yousef and I'm a Software-developer who is passionate about programmi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 </br>
 ![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=Django)
