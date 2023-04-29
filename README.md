@@ -45,6 +45,8 @@ My name is Yousef and I'm a Software-developer who is passionate about programmi
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
 ![Django](https://img.shields.io/badge/-jupyterNotebook-05122A?style=flat&logo=jupyter)
+![SAAS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)
+![Mendix](https://img.shields.io/badge/-Mendix-05122A?style=flat&logo=Mendix)
 
 
 ## &#x1f4c8; GitHub Stats
