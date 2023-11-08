@@ -2,9 +2,7 @@
 <a href="https://www.linkedin.com/in/yousef-obeidat96/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=mrobeidat)
-
 My name is Yousef and I'm a Software-developer who is passionate about programming and learning new technologies. 
 
 ### 👨🏻‍💻 &nbsp;About Me
