@@ -1,8 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/mrobeidat/">
-  <img align="left" alt="" width="22px" src="https://i.stack.imgur.com/gVE0j.png" />
-</a> My name is Yousef and I'm a Software-developer who is passionate about programming and learning new technologies. 
+  <img align="left" alt="" width="22px" src="https://i.stack.imgur.com/gVE0j.png" /> </a>My name is Yousef and I'm a Software-developer who is passionate about programming and learning new technologies. 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
