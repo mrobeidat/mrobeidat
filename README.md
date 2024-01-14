@@ -66,7 +66,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/yousef-obeidat96/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mrobeidat/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="y.linux96@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mr.obiedat"><img src="https://img.shields.io/badge/-My%20Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/mr.obiedat"><img src="https://img.shields.io/badge/-My%20Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
