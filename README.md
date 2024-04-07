@@ -13,8 +13,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/_-HTML-E34C26.svg?style=for-the-badge)
+![CSS](https://img.shields.io/badge/_-CSS-563D7C.svg?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
