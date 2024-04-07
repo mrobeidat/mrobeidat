@@ -45,7 +45,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Mendix](https://img.shields.io/badge/Mendix-CC6699.svg?style=for-the-badge&logo=Mendix&logoColor=white)
+![Mendix](https://img.shields.io/badge/Mendix-000000.svg?style=for-the-badge&logo=Mendix&logoColor=white)
 
 
 ## &#x1f4c8; GitHub Stats
