@@ -2,7 +2,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=200&section=header&text=Yousef%20Obeidat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20@%20Arabia%20Weather&descAlignY=55&descSize=18">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=200&section=header&text=Yousef%20Obeidat&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20@%20Arabia%20Weather&descAlignY=55&descSize=18">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=200&section=header&text=Yousef%20Obeidat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20@%20Arabia%20Weather&descAlignY=55&descSize=18">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=200&section=header&text=Yousef%20Obeidat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20@%20Arabia%20Weather&descAlignY=55&descSize=18" alt="header">
   </picture>
 </div>
