@@ -12,7 +12,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00DC82&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Weather+Tech+Solutions;Nuxt+3+%E2%9A%A1+NestJS+%F0%9F%9A%80+Vue.js+%F0%9F%92%9A">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Weather+Tech+Solutions;Nuxt+3+%E2%9A%A1+NestJS+%F0%9F%9A%80+Vue.js+%F0%9F%92%9A">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00DC82&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Weather+Tech+Solutions;Nuxt+3+%E2%9A%A1+NestJS+%F0%9F%9A%80+Vue.js+%F0%9F%92%9A" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00DC82&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Weather+Tech+Solutions;Nuxt+3+%E2%9A%A1+NestJS; alt="Typing SVG">
   </picture>
 </div>
 
@@ -47,7 +47,7 @@
           <img alt="Weather Forecast System" src="https://custom-icon-badges.demolab.com/badge/Weather%20Forecast-System-00DC82?style=for-the-badge&logo=cloud&logoColor=white">
         </picture>
         <br>
-        <sub>Nuxt 3 • Vue 3 • TypeScript</sub>
+        <sub>Nuxt 3 • NestJS • TypeScript</sub>
       </td>
       <td align="center">
         <picture>
